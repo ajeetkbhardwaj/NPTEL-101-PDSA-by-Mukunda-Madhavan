@@ -6,7 +6,6 @@
 
 ### Week 0 : Introduction to Python Dry run
 
-
 ## Teaching Assistant-2 : Pratyush Taneja
 
 ### Youtube Playlist : [Problem Solving Playlist](https://www.youtube.com/channel/UCGr_yKjdaZPwU8s77R-A1nw/playlists)
@@ -18,6 +17,5 @@
 ### Youtube Playlist : [Problem Solving Session](https://www.youtube.com/user/saubhiksom/playlistas)
 
 ### Week 0 : Introduction to Python Dry run
-
 
 https://www.youtube.com/user/SMITH6859/videos
